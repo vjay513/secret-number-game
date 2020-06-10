@@ -1,5 +1,5 @@
 # secret-number-game
-Find randomly generated secret number using Python
+Find a randomly generated secret number using Python
 
 This is sample python program, we have to find the secret code generated randomly from the system, to find the secreat code we are giving the clues. clues will say the match or close,
 
